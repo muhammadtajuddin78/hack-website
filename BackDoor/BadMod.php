@@ -194,13 +194,13 @@ $ver= "~! Login !~";  $pass=$_POST['pass']; $pass=md5($pass); if($pass==$passwor
 //||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 // #########################################################/|
 // #                                                       #/|
-// #     >.< this shell By MrSqar [Mohamed fadhl] >.<      #/|
+// #     >.< this shell By mr jack [jack] >.<      #/|
 // #                                                       #/|
-// #             Email: MrSqar@gmail.com                   #/|
+// #             Email: sa78peta@gmail.com                   #/|
 // #                                                       #/|
-// #             www.facebook.com/MrSqar                   #/|
+// #             www.facebook.com/jack freedom                   #/|
 // #                                                       #/|
-// #                 MaDe In Yemen                         #/|
+// #                 MaDe In dark                         #/|
 // #########################################################/|
 /////////////////////////////////////////////////////////////|
 */
